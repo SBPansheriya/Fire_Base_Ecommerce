@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757244465210",
+    "project_id": "shreyfirebase-2fde1",
+    "storage_bucket": "shreyfirebase-2fde1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757244465210:android:e910cd91e341ca57536503",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757244465210-cp1d2vj52tpi730jquun7k1lsghq9q18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_base_ecommerce",
+            "certificate_hash": "d49708332c53d188342d9d3e080cd1a25de259aa"
+          }
+        },
+        {
+          "client_id": "757244465210-euun1lscbf96l2dcvfma0c3voa8rmij1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB5vwS3Vdvs7CKJ8P6nEbomnmwe8rnJek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757244465210-euun1lscbf96l2dcvfma0c3voa8rmij1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
